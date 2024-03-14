@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, rgb(248, 244, 244), crimson);
+    background-image: #000000;
 }
 
 .title {
